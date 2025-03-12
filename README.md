@@ -1,2 +1,0 @@
-# loveBra.github.io
-blog
