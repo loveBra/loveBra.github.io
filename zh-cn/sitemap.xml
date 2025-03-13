@@ -3,12 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://lovebra.github.io/test/</loc>
-    <lastmod>2025-03-13T09:13:16+08:00</lastmod>
+    <lastmod>2025-03-13T16:05:11+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://lovebra.github.io/</loc>
+    <lastmod>2025-03-13T16:05:11+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lovebra.github.io/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-CN"
+                href="https://lovebra.github.io/"
+                />
+  </url><url>
+    <loc>https://lovebra.github.io/posts/</loc>
+    <lastmod>2025-03-13T16:05:11+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://lovebra.github.io/test1/</loc>
+    <lastmod>2025-03-13T16:05:11+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://lovebra.github.io/categories/</loc>
-    <lastmod>2025-03-13T09:13:16+08:00</lastmod>
+    <lastmod>2025-03-13T16:05:11+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -23,42 +48,22 @@
                 />
   </url><url>
     <loc>https://lovebra.github.io/tags/configuration/</loc>
-    <lastmod>2025-03-13T09:13:16+08:00</lastmod>
+    <lastmod>2025-03-13T16:05:11+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://lovebra.github.io/categories/documentation/</loc>
-    <lastmod>2025-03-13T09:13:16+08:00</lastmod>
+    <lastmod>2025-03-13T16:05:11+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>https://lovebra.github.io/</loc>
-    <lastmod>2025-03-13T09:13:16+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lovebra.github.io/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="https://lovebra.github.io/"
-                />
   </url><url>
     <loc>https://lovebra.github.io/tags/installation/</loc>
-    <lastmod>2025-03-13T09:13:16+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://lovebra.github.io/posts/</loc>
-    <lastmod>2025-03-13T09:13:16+08:00</lastmod>
+    <lastmod>2025-03-13T16:05:11+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://lovebra.github.io/tags/</loc>
-    <lastmod>2025-03-13T09:13:16+08:00</lastmod>
+    <lastmod>2025-03-13T16:05:11+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link

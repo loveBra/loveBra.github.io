@@ -7,7 +7,7 @@
     <generator>Hugo</generator>
     <language>zh-CN</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Thu, 13 Mar 2025 09:13:16 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 13 Mar 2025 16:05:11 +0800</lastBuildDate>
     <atom:link href="https://lovebra.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>主题文档 - 基本概念</title>
@@ -15,6 +15,13 @@
       <pubDate>Fri, 06 Mar 2020 21:40:32 +0800</pubDate>
       <guid>https://lovebra.github.io/test/</guid>
       <description>&lt;p&gt;探索 Hugo - &lt;strong&gt;LoveIt&lt;/strong&gt; 主题的全部内容和背后的核心概念.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Test1</title>
+      <link>https://lovebra.github.io/test1/</link>
+      <pubDate>Thu, 13 Mar 2025 16:00:55 +0800</pubDate>
+      <guid>https://lovebra.github.io/test1/</guid>
+      <description>&lt;h1 id=&#34;5-搜索&#34;&gt;5 搜索&lt;/h1&gt;&#xA;&lt;h2 id=&#34;51-输出配置&#34;&gt;5.1 输出配置&lt;/h2&gt;&#xA;&lt;h3 id=&#34;52-搜索配置&#34;&gt;5.2 搜索配置&lt;/h3&gt;</description>
     </item>
   </channel>
 </rss>
