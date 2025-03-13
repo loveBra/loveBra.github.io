@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hello world</title>
-    <link>https://lovebra.github.io/</link>
-    <description>Recent content on Hello world</description>
+    <title>Configuration on Hello world</title>
+    <link>https://lovebra.github.io/tags/configuration/</link>
+    <description>Recent content in Configuration on Hello world</description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Thu, 13 Mar 2025 09:13:16 +0800</lastBuildDate>
-    <atom:link href="https://lovebra.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lovebra.github.io/tags/configuration/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>主题文档 - 基本概念</title>
       <link>https://lovebra.github.io/test/</link>
